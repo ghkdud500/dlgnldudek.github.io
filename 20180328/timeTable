@@ -1,0 +1,49 @@
+<!doctype html> <!--advTable.html-->
+  <html lang="ko">
+  <head><meta charset="utf-8"/><meta name="viewport"content="width=device-width,initial-scale=1"/>
+   <style> table,thead,tbody,tfoot,tr,th,td{
+           border:1px solid black;  border-collapse:collapse;} 
+.subject1{background-color:red;}
+.subject2{background-color:gold;}
+.subject3{background-color:green;}
+.subject4{background-color:orange;}
+.subject5{background-color:purple;}
+.subject6{background-color:skyblue;}
+.subject7{background-color:lightgreen;}
+.subject8{background-color:brown;}
+.subject9{background-color:grey;}
+           table {width:80%;} td,th{height:30px;} th,td{text-align:center;}
+          
+   </style><!-- border-collapse:collapse 단선으로, 반대는 separate-->
+<title>HTML5 고급 테이블 테스트 실습</title></head>
+<body>
+ <table>
+  <h2>이휘영 시간표</h2>
+<thead>
+<tr><th>시간/요일</th><th>월요일</th><th>화요일</th><th>수요일</th><th>목요일</th><th>금요일</th></tr>
+
+</thead>
+<tbody>
+
+<tr><td>1교시</td><td></td><td rowspan="2" class="subject3">글쓰기<br/>기초</td><td rowspan="2" class="subject2">자료구조</td><td></td><td rowspan="9" class="subject9">공강</td></tr>
+ 
+<tr><td>2교시</td><td></td><td></td></tr>
+ 
+ <tr><td>3교시</td><td rowspan="2" class="subject1">디지털<br/>논리회로</td><td rowspan="2" class="subject2">자료구조</td><td></td><td rowspan="2" class="subject4">인터넷<br/>프로그래밍</td></tr>
+ 
+ <tr><td>4교시</td><td rowspan="2" class="subject4">인터넷<br/>프로그래밍</td></tr>
+ 
+ <tr><td>5교시</td><td></td><td class="subject1">디지털<br/>논리회로</td><td></td></tr>
+ 
+ <tr><td>6교시</td><td rowspan="4" class="subject5">c++<br/>프로그래밍</td><td></td><td rowspan="3" class="subject6">지구화시대<br/>인권</td><td rowspan="2" class="subject7">캠퍼스<br/>멘토링</td></tr>
+ 
+ <tr><td>7교시</td><td rowspan="2" class="subject8">영어회화</td></tr>
+ 
+ <tr><td>8교시</td><td></td></tr>
+ 
+ <tr><td>9교시</td><td></td><td></td><td></td></tr>
+ 
+ 
+
+</table>
+</body></html>
