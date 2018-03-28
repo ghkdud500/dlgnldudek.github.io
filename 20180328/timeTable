@@ -1,4 +1,4 @@
-<!doctype html> <!--advTable.html-->
+<!doctype html> <!--timeTable.html-->
   <html lang="ko">
   <head><meta charset="utf-8"/><meta name="viewport"content="width=device-width,initial-scale=1"/>
    <style> table,thead,tbody,tfoot,tr,th,td{
@@ -15,7 +15,7 @@
            table {width:80%;} td,th{height:30px;} th,td{text-align:center;}
           
    </style><!-- border-collapse:collapse 단선으로, 반대는 separate-->
-<title>HTML5 고급 테이블 테스트 실습</title></head>
+<title>시간표</title></head>
 <body>
  <table>
   <h2>이휘영 시간표</h2>
