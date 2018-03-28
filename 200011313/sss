@@ -1,0 +1,55 @@
+<!doctype html> <!-- index.html-->
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport"content="width=device-width,initial-scale=1"/>
+    <title>리스트 예제</title>
+  </head>
+  <body>
+    <h1 id="aList">20141516</h1>
+    <ul>
+      <li>20180314
+        <ol>
+         <li><a href="dlgnldudek.github.io/20180314/basicHtml.html">basicHtml</a></li>
+         <li><a href="dlgnldudek.github.io/20180314/globalAttr.html">globalAttr</a></li>
+         <li><a href="dlgnldudek.github.io/20180314/globalEvent.html">globalEvent</a></li>
+        </ol>
+      </li>
+      <li>20180315
+        <ol>
+          <li><a href="dlgnldudek.github.io/20180315/bodyBasic.html">bodyBasic</a></li>
+          <li><a href="dlgnldudek.github.io/20180315/headBasic.html">headBasic</a></li>
+          <li><a href="dlgnldudek.github.io/20180315/koraAnthem4.htmll">bodyBasic</a></li>
+          <li><a href="dlgnldudek.github.io/20180315/koreaAnthem3.html">koreaAnthem3</a></li>
+        </ol>
+      </li>
+      <li>20180321
+        <ol>
+          <li><a href="dlgnldudek.github.io/20180321/basicChar.html">basicChar</a></li>
+          <li><a href="dlgnldudek.github.io/20180321/basicPBrHr.html">basicPBrHr</a></li>     
+        </ol>
+      </li>
+      <li>20180322
+        <ol>
+          <li><a href="dlgnldudek.github.io/20180322/basicList.html">basicList</a></li>
+          <li><a href="dlgnldudek.github.io/20180322/basicList1.html">basicDList</a></li>
+          <li><a href="dlgnldudek.github.io/20180322/koreaAnthem5.html">koreaAnthem5</a></li>
+          <li>
+      <a href="dlgnldudek.github.io/20180322/koreaAnthem6.html">koreaAnthem6</a></li>
+          <li><a href="dlgnldudek.github.io/20180322/index1.html</a></li>
+          <li><a href="dlgnldudek.github.io/20180322/index2.html</a></li>
+        </ol>
+      </li>
+        <li>20180328
+        <ol>
+          <li><a href="dlgnldudek.github.io/20180328/advTable.html">advTable</a></li>
+          <li><a href="dlgnldudek.github.io/20180328/basicTable.html">basicTable</a></li>
+          <li><a href="dlgnldudek.github.io/20180328/tableHw.html">tableHw</a></li>
+          <li><a href="dlgnldudek.github.io/20180328/tableSpan.html">tableSpan</a></li>
+          <li><a href="dlgnldudek.github.io/20180328/timeTable">timeTable</a></li>
+        </ol>
+      </li>
+    </ul>
+    <hr/>
+  </body>
+</html>
